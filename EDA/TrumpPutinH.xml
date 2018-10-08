@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-stylesheet type="text/css" href="news.css" ?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/bavla/HSE/master/EDA/news.css" ?>
 <News xmlns:h="http://www.w3.org/1999/xhtml">
 <h:html><h:head><h:title>XML markup example</h:title></h:head>
 <h:body>
