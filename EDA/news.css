@@ -1,0 +1,22 @@
+News { font-size: 20pt;
+   font-family: Courier New;
+   background-color: Wheat;
+   width: 400;}
+news { display: block;
+   margin-bottom: 30pt;
+   margin-left: 0;
+   background-color: Cornsilk;}
+p, meta { display: block;
+   margin-bottom: 10pt;}
+author { font-family: Arial;}
+title { font-family: Impact;
+   display: block;
+   color: Maroon;
+   margin-left: 20pt;
+   margin-bottom: 10pt;}
+person, actors { background-color: yellow; }
+event { color: red; }
+topic { color: blue; }
+country { border:2px solid green; }
+region{ border:2px solid red; }
+date {background-color: cyan;}
