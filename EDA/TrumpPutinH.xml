@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="news.css" ?>
+<News xmlns:h="http://www.w3.org/1999/xhtml">
+<h:html><h:head><h:title>XML markup example</h:title></h:head>
+<h:body>
+<h:h1>XML markup example / HTML</h:h1>
+<h:img src="./TrumpPutin.jpg" /> <h:br />
+<h:a href="https://www.msn.com/ru-ru/news/article/%d0%be%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f-%d1%81%d0%be%d0%ba%d1%80%d0%b0%d1%89%d0%b0%d1%8e%d1%82%d1%81%d1%8f-%d0%ba%d0%b0%d0%ba-%d0%bf%d0%be%d1%80%d1%82%d0%b8%d0%bb%d0%b8%d1%81%d1%8c-%d1%81%d0%b2%d1%8f%d0%b7%d0%b8-%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8-%d0%b8-%d1%81%d1%88%d0%b0-%d0%bf%d1%80%d0%b8-%d1%82%d1%80%d0%b0%d0%bc%d0%bf%d0%b5/ar-BBEJNsU">Source</h:a>
+</h:body> </h:html>
+<news>
+<meta>
+<source url="https://www.msn.com/ru-ru/news/article/%d0%be%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f-%d1%81%d0%be%d0%ba%d1%80%d0%b0%d1%89%d0%b0%d1%8e%d1%82%d1%81%d1%8f-%d0%ba%d0%b0%d0%ba-%d0%bf%d0%be%d1%80%d1%82%d0%b8%d0%bb%d0%b8%d1%81%d1%8c-%d1%81%d0%b2%d1%8f%d0%b7%d0%b8-%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8-%d0%b8-%d1%81%d1%88%d0%b0-%d0%bf%d1%80%d0%b8-%d1%82%d1%80%d0%b0%d0%bc%d0%bf%d0%b5/ar-BBEJNsU" />
+<authors><author>Александр Атасунцев</author>, <author>Полина Химшиашвили</author></authors>
+<photo><author>Steffen Kugler</author></photo> 
+<date key="9-11-2017">9-11-2017</date>
+</meta>
+<content>
+<title>Отношения сокращаются: как портились связи <country key="Russia">России</country>
+и <country key="USA">США</country> при <person key="Donald Trump">Трампе</person></title> 
+
+<p><s><date key="10-11-2017; 11-11-2017">10–11 ноября</date> во 
+<country key="Vietnam">вьетнамском <place key="Da Nang">Дананге</place></country> 
+пройдет <event key="ATES">саммит АТЭС</event>, в котором примут участие президенты 
+<country key="Russia">России</country> и <country key="USA">США</country> 
+<person key="Vladimir Putin">Владимир Путин</person> и 
+<person key="Donald Trump">Дональд Трамп</person>.</s>
+<s><person key="Donald Trump">Американский лидер</person> уже заявил, 
+что готов встретиться с <person key="Vladimir Putin">Путиным</person>, 
+чтобы обсудить ситуацию на <country key="Ukraine">Украине</country>.</s>
+<s>По словам <person key="Donald Trump">главы Белого дома</person>, 
+<person key="Vladimir Putin">российский президент</person> также может помочь
+с урегулированием <country key="Siria">сирийского конфликта</country> и 
+ситуации на <region key="Korean peninsula">Корейском полуострове</region>.</s></p>
+
+<p><s><person key="Vladimir Putin">Владимир Путин</person> 
+тоже готов к <event key="meeting">встрече</event>, 
+протокольные службы находятся в контакте для ее организации, 
+сообщил <actors key="journalists">журналистам</actors> уже прибывший в Дананг 
+министр иностранных дел России <person key="Sergey Lavrov">Сергей Лавров</person>.</s></p>
+
+<p><s>Если <event key="meeting">встреча</event> состоится, обсуждаться будут все 
+<topic key="general">«стоящие на повестке дня вопросы»</topic>, 
+сказал <person key="Sergey Lavrov">Лавров</person>: отношения требуют «серьезного ремонта»,
+после того как команда предыдущего президента <person key="Barack Obama">Барака Обамы</person>
+«постаралась и поработала над их ухудшением».</s>
+<s>Из <topic key="international relations">международных вопросов</topic>, 
+по словам <person key="Sergey Lavrov">Лаврова</person>, можно обсудить 
+<region key="Korean peninsula"><country key="North Korea; South Korea"><topic key="Korean peninsula">ситуацию на Корейском полуострове</topic></country></region>,
+ <country key="Siria"><topic key="conflict Siria">сирийское урегулирование</topic></country>,
+ <country key="Iraq"><topic key="Iraq">Ирак</topic></country>,
+ <region key="Middle east"><country key="Israel; Palestine"><topic key="confict Israel-Palestine"> палестино-израильский конфликт</topic></country></region>, 
+ <country key="Ukraine"><topic key="Ukraine">Украину</topic></country>.</s><s> «Тем для разговора будет достаточно»,
+  — резюмировал <person key="Sergey Lavrov">Лавров</person>.</s></p>
+</content>
+</news>
+</News>
