@@ -66,5 +66,3 @@ C_rate: 259      NA 0000 european_union
 It is not a very good variable - it contains many NAs. Try to avoid such variables in your project.
 
 
-
-[Project 1](p1.md); [Students](stu.md); [EDA](../README.md)
